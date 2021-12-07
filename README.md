@@ -29,6 +29,6 @@ wysłąć POST Request, w odpowiedż dostaniemy numer UUID stworzonego itema i o
 ![img.png](images/img.png)
 
 Jeżeli chcemy dostać jakiś item to musimu w url wpisać http://localhost:8080/items/{UUID} (na przykład http://localhost:8080/items/8cf4c86b-c258-4d30-9982-9599bae773c8)
-wtedy dostaniemy w odpowiedż dostaniemy JSON z id i imieniem itemu
+wtedy w odpowiedż dostaniemy JSON z id i imieniem itemu
 
 ![img.png](images/get.png)
